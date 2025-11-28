@@ -2,10 +2,6 @@
 
 Hello! My name is Zaid Izzah Nurbaain, but people usually call me Zaid. I am a Software Engineer based in Karanganyar, Central Java, Indonesia. I am an open-minded and enthusiastic individual who loves learning about the world of technology, especially in the fields of design, system analysis, and software development, as well as agriculture and plantation.
 
-> Always remember that simplicity and consistency are the path to success, and perfection does not come instantly. Because the process itself shapes perfection.
-
-## About Me
-
 - 👨‍🎨 Everything you want to know about me is here: [www.zaidizzah.com](https://www.zaidizzah.com/ "The place where you will discover a part of me").
 - 🌱 Learning Dekstop application development based using C#, and Pixel Art design.
 - 💬 Ask me about PHP, Javascript, and something you want to tell
